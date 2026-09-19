@@ -1,0 +1,10 @@
+{
+  "name": "layered-config",
+  "version": "1.0.0",
+  "description": "默认层/环境层/覆盖层三层叠合配置，纯 JavaScript 零依赖",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
